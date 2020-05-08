@@ -1,6 +1,8 @@
 # Farlandia
 ## Farlandia
- 
+
+Treść zadanie znajduje się w pliku _**"Farlandia.pdf"**_
+
 Dedykowanym narzędziem do rozwiązania tego zadania jest arkusz kalkulacyjny. Można je także rozwiązać za pomocą innych narzędzi. Można napisać prosty program, w wybranym przez siebie języku programowania. Można zastosować dowolne, wygodne narzędzia informatyczne i wszelkie inne.
 
 Jako rozwiązanie proszę wysłać, udostępnić w sieci, przekazać w inny, dogodny, mozliwy sposób treści związane z rozwiązaniem zadania.
